@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
