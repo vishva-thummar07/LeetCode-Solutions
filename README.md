@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vishva-thummar07/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
